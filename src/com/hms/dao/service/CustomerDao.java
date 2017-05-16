@@ -7,7 +7,7 @@ import com.hms.model.Customer;
 public interface CustomerDao {
 	
 	/**
-	 * CRUD operations for CUSTOMER table
+	 * CRUD operations for Employee table
 	 */
 	int insertCustomer(Customer customer);
 	int updateCustomer(Customer customer);
